@@ -1,0 +1,32 @@
+#titre{
+    font-size: 50px;
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow:6px 6px 6px rgb(78, 53, 102);
+    
+}
+#form{
+    height: 100px;
+    border-radius: 15px;
+    border: 1px solid black;
+    margin-top: 15px;
+
+}
+#button{
+    margin-top: 10px;
+}
+#lok{
+    margin-top: 15px;
+}
+.list{
+    margin-top: 15px;
+}
+
+.trach,.add{
+    float: right;
+}
+i{
+    padding-left: 5px ;
+    padding-right: 5px;
+    color: rgb(117, 77, 133);
+}
